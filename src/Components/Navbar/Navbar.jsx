@@ -14,7 +14,7 @@ const Navbar = () => {
                 <li>About us</li>
                 <li>Campus</li>
                 <li>Testimonials</li>
-                <li>Contact us</li>
+                
             </ul>
         </nav>
 
