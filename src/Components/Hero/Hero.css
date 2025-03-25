@@ -1,0 +1,11 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background:linear-gradient(rgba(47, 38, 103, 0.7),rgba(32, 25, 69, 0.7)) ,url("../../assets/5.webp");
+    background-position: center;
+    background-size: cover;
+    color: rgb(236, 235, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
