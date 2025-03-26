@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import dark_arrow from "../../assets/10.jpg"
+import dark_arrow from "../../assets/1.jpg"
 
 
 
