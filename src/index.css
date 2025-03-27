@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: rgb(230, 225, 218);
+    background-color: rgb(238, 237, 236);
 }
 
 a{
@@ -38,4 +38,9 @@ a{
 .btn img{
     width: 50px;
     margin-left: 10px;
+}
+
+.btn.dark-btn {
+    background-color: rgb(31, 4, 71);
+    color: azure;
 }
