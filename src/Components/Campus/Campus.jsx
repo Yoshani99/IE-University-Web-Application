@@ -6,7 +6,7 @@ import gallery_3 from "../../assets/gallery-03.avif"
 import gallery_4 from "../../assets/gallery-04.avif"
 import gallery_5 from "../../assets/gallery-05.avif"
 import gallery_6 from "../../assets/gallery-06.jpg"
-import white_arrow from "../../assets/white-arrow.jpg"
+import white_arrow from "../../assets/white-arrow.png"
 
 
 const Campus =() => {
