@@ -35,17 +35,17 @@
 
 .slider ul li{
     list-style: none;
-    width: 50%;
+    width: 500%;
     padding: 20px;
 }
 
 .slide{
-    box-shadow: 0 0 20px rgb(0,0,0,0.05);
+    box-shadow: 0 0 30px rgb(0,0,0,0.05);
     padding: 40px;
     border-radius: 10px;
     color: rgb(122, 118, 118);
     line-height: 1.4;
-    /* background-color: rgb(220, 211, 211);  */
+    background-color: rgb(240, 234, 234);  
 }
 
 .slide img{
@@ -56,7 +56,7 @@
 }
 
 .user-info{
-    display: flex;
+    display:flex;
     align-items: center;
     margin-bottom: 20px;
     font-size: 15px;
@@ -65,4 +65,44 @@
 
 .user-info h3{
     color: rgb(65, 46, 190);
+}
+
+/*------ media query------ */
+
+@media(max-width: 800px){
+    .testimonials{
+        padding: 0 40px;
+    }
+
+    .next-btn , .back-btn{
+        padding: 10px;
+        width: 35px;
+    }
+
+    .testimonials ul li{
+        padding: 10px;
+    }
+
+    .slide{
+        padding: 10px;
+    }
+
+    .slide img{
+        width: 50px;
+        border: 3px solid ;
+    }
+}
+
+@media(max-width:600px){
+    .user-info{
+        display: block;
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .user-info h3{
+        font-size: 16px;
+    }
+    .slider p{
+        font-size: 12px;
+    }
 }

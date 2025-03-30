@@ -47,9 +47,10 @@ const slideBackward =() => {
                                 <span>IE , UK </span>
                             </div>
                         </div>
-                        <p>Studying at IE has been an incredible experience. The campus provides a great learning environment
-                             with modern facilities, helpful professors, and a supportive student community.I have grown both
-                             academically and personally, and I’m glad I chose this university for my degree.</p>
+                        <p>Studying at IE has been an incredible experience.The campus provides a great learning
+                        environment with modern facilities, helpful professors, and a supportive student community.
+                        I have grown both academically and personally,and I’m glad I chose this university for
+                        my degree.</p>
                     </div>
                 </li>
 
